@@ -11,4 +11,4 @@ ID – соответствующий записи в тестовой выбо�
 PRED – вероятность наступления дефолта, значение [0:1]
 
 
-<img width="575" alt="Screen Shot 2021-12-25 at 18 12 57" src="https://user-images.githubusercontent.com/4342512/147384627-f71ac42e-b206-4402-a9d1-ffa183eef77d.png">
+<img width="546" alt="Screen Shot 2021-12-25 at 18 13 51" src="https://user-images.githubusercontent.com/4342512/147384642-fca6c6b9-a8ea-4bc8-a009-21ee3792dd44.png">
